@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">RecyclerViewRio</string>
+    <string name="my_name">Rio Gonzales</string>
+    <string name="books">Books</string>
+    <string name="calculator">Calculator</string>
+    <string name="instagram">Instagram</string>
+    <string name="dial_phone">Dial Phone</string>
+    <string name="data">Parcelable</string>
+    <string name="book_title">Book Title</string>
+    <string name="book_author">Book Author</string>
+    <string name="book_detail">Detail</string>
+    <string name="description">Description</string>
+    <string name="content_description">Content Description</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="first_number">First Number</string>
+    <string name="second_number">Second Number</string>
+    <string name="hasil">"Result: "</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="multiply">x</string>
+    <string name="divide">:</string>
+    <string name="bottom_navigation">Bottom Navigation</string>
+    <string name="title_activity_bottom_navigation">BottomNavigationActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="profil">Profil</string>
+    <string name="nama">Nama</string>
+    <string name="name">Nama</string>
+    <string name="usia">Usia</string>
+    <string name="usia1">Usia</string>
+</resources>
